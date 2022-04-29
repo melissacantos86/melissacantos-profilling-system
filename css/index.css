@@ -1,0 +1,17 @@
+
+html,
+body{
+overflow: hidden;
+height: 100vh;
+    font-family: Poppins;       
+}
+
+.wrapper{
+height: 100vh;
+overflow-x: hidden;
+overflow-y: auto;
+}
+
+.app_footer {
+    background-color: var(--l-gray);
+}

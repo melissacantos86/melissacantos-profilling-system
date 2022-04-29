@@ -1,0 +1,10 @@
+.visual-effect{
+    position: absolute;
+    width: 135%;
+    height: 600px;
+    z-index: -1;
+    background-color: rgba(77, 169, 255, 0.466);
+    transform: rotate(-10deg);
+    top: -50%;
+    left: -30%;
+}

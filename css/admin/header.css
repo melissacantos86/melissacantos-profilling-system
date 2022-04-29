@@ -1,0 +1,16 @@
+.app_header{
+    height: 80px;
+}
+
+.app_header  .logo {
+    width: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.app_header .avatar {
+    width: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
